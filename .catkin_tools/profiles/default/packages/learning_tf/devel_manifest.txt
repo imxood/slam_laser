@@ -1,0 +1,4 @@
+learning_tf
+/home/peak/develop/slam_learn/devel/.private/learning_tf/lib/pkgconfig/learning_tf.pc /home/peak/develop/slam_learn/devel/lib/pkgconfig/learning_tf.pc
+/home/peak/develop/slam_learn/devel/.private/learning_tf/share/learning_tf/cmake/learning_tfConfig.cmake /home/peak/develop/slam_learn/devel/share/learning_tf/cmake/learning_tfConfig.cmake
+/home/peak/develop/slam_learn/devel/.private/learning_tf/share/learning_tf/cmake/learning_tfConfig-version.cmake /home/peak/develop/slam_learn/devel/share/learning_tf/cmake/learning_tfConfig-version.cmake
