@@ -35,6 +35,7 @@
         "system_error": "cpp",
         "thread": "cpp",
         "typeindex": "cpp",
-        "core": "cpp"
+        "core": "cpp",
+        "jacobi": "cpp"
     }
 }

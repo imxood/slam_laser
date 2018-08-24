@@ -1,7 +1,9 @@
 blacklist: []
 build_space: build
 catkin_make_args: []
-cmake_args: []
+cmake_args:
+- -DCMAKE_BUILD_TYPE=DEBUG
+- -DCMAKE_CXX_STANDARD=11
 devel_layout: linked
 devel_space: devel
 extend_path: null

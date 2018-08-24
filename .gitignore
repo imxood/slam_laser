@@ -2,3 +2,5 @@ bag/odom.bag
 devel
 build
 logs
+.catkin_tools
+src/geometry
