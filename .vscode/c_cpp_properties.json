@@ -1,17 +1,14 @@
 {
     "configurations": [
         {
-            "browse": {
-                "databaseFilename": "",
-                "limitSymbolsToIncludedHeaders": true
-            },
-            "includePath": [
-                "/home/peak/work/robot/source/devel/include",
-                "/opt/ros/kinetic/include",
-                "/home/peak/work/ros_test/src/learning_tf/include",
-                "/usr/include"
-            ],
             "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
             "intelliSenseMode": "clang-x64"
         }
     ],
