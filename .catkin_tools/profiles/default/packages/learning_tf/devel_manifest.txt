@@ -1,4 +1,0 @@
-learning_tf
-/home/imxood/develop/slam_learn/devel/.private/learning_tf/share/learning_tf/cmake/learning_tfConfig.cmake /home/imxood/develop/slam_learn/devel/share/learning_tf/cmake/learning_tfConfig.cmake
-/home/imxood/develop/slam_learn/devel/.private/learning_tf/share/learning_tf/cmake/learning_tfConfig-version.cmake /home/imxood/develop/slam_learn/devel/share/learning_tf/cmake/learning_tfConfig-version.cmake
-/home/imxood/develop/slam_learn/devel/.private/learning_tf/lib/pkgconfig/learning_tf.pc /home/imxood/develop/slam_learn/devel/lib/pkgconfig/learning_tf.pc
