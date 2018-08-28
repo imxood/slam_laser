@@ -4,3 +4,4 @@ build
 logs
 .catkin_tools
 src/geometry
+pdf
